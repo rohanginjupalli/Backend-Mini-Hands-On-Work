@@ -1,0 +1,17 @@
+{
+  "name": "2.3-npm",
+  "version": "1.0.0",
+  "description": "i am learning npm",
+  "license": "ISC",
+  "author": "Rohan",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^12.9.2",
+    "qr-image": "^3.2.0",
+    "superheroes": "^4.0.0"
+  }
+}
